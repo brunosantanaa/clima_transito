@@ -1,10 +1,5 @@
-from __future__ import print_function
-
-from pprint import pprint as pp
-
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
-import numpy as np
 
 class data:
     def __init__(self):
