@@ -13,8 +13,10 @@ Para o wazeScrapping funcionar é necessario instalar o Driver do Chrome no seu 
 
 ## exemp_lib.ipynb
 
-Notebook para testes e exemplo da biblioteca/métodos criados para o projeto. Classes-Métodos até o momento:
-1. baltar_met
-  1. data
-    1. wazeScraping
-    2. clima
+Notebook para testes e exemplo da biblioteca/métodos criados para o projeto.
+
+Classes-Métodos até o momento:
+baltar_met
+  - data
+   - wazeScraping
+   - clima
