@@ -16,7 +16,7 @@ Para o wazeScrapping funcionar é necessario instalar o Driver do Chrome no seu 
 Notebook para testes e exemplo da biblioteca/métodos criados para o projeto.
 
 Classes-Métodos até o momento:
-baltar_met
+**baltar_met**
   - data
-   - wazeScraping
-   - clima
+     - wazeScraping
+     - clima
