@@ -73,20 +73,20 @@ dependencies:
 - pygments=2.2.0=py35h392a662_0
 - pyopenssl=17.2.0=py35h4737193_0
 - pyparsing=2.2.0=py35h31fab04_0
-- pyqt=5.6.0=py35hbd126f6_6
+- pyqt=4.11.4=py35_4
 - pysocks=1.6.7=py35h3cfcbe1_1
 - python=3.5.4=he720263_23
 - python-dateutil=2.6.1=py35h10515e0_1
 - pytz=2017.3=py35heeb7564_0
 - pyyaml=3.12=py35hf8cec8a_1
 - pyzmq=16.0.3=py35hab9903b_0
-- qt=5.6.2=h9975529_14
+- qt=4.8.7=4
 - qtconsole=4.3.1=py35hd6d667b_0
 - readline=7.0=hc1231fa_4
 - requests=2.18.4=py35h0d65e6b_1
 - setuptools=36.5.0=py35h52cde6a_0
 - simplegeneric=0.8.1=py35h0a3d746_0
-- sip=4.18.1=py35h79e1f92_2
+- sip=4.18=py35_0
 - six=1.11.0=py35h39a4c60_1
 - sqlite=3.20.1=h7e4c145_2
 - terminado=0.6=py35hf269ddc_0
@@ -108,10 +108,13 @@ dependencies:
   - jupyter-client==5.1.0
   - jupyter-console==5.2.0
   - jupyter-core==4.4.0
+  - lxml==4.1.1
   - nb-anacondacloud==1.4.0
   - nb-conda==2.2.1
   - nb-conda-kernels==2.1.0
   - prompt-toolkit==1.0.15
+  - selenium==3.7.0
+  - webkit-server==1.0
+  - xvfbwrapper==0.2.9
 prefix: /Users/Bruno/anaconda3/envs/baltar
-
 
