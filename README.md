@@ -9,7 +9,7 @@ Entre no terminal, navegue até a pasta onde está o gitclone e coloque os segui
 
 ## Chrome Driver
 
-Para o wazeScrapping funcionar é necessario instalar o Driver do Chrome no seu ambiente conda. Para isso faço o download do executável no [link](https://sites.google.com/a/chromium.org/chromedriver/), descompacte na pasta anaconda(3)/envs/(baltar)/bin.
+Para o wazeScrapping funcionar é necessario instalar o Driver do Chrome no seu ambiente conda. Faça o download no [link](https://sites.google.com/a/chromium.org/chromedriver/), descompacte-o na pasta anaconda(3)/envs/(baltar)/bin.
 
 ## exemp_lib.ipynb
 
