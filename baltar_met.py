@@ -1,3 +1,5 @@
+# coding: utf-8
+
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 from urllib.request import urlopen
@@ -15,11 +17,11 @@ class data:
         self.latitude = latitude
         self.longitude = longitude
     def wazeScraping(self):
-        ''' Recupera o nível de congestionamento próximo ao local selecionado.
+        ''' Recupera o nivel de congestionamento próximo ao local selecionado.
 
             Retorna
             -------
-            severity: Número de pontos congestionados por nível de congestionamento [1..4]
+            severity: Numero de pontos congestionados por nível de congestionamento [1..4]
 
         '''
         driver = webdriver.Chrome()

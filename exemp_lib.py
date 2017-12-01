@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 # # BaltarTec - Testes e Exemplos
