@@ -6,9 +6,12 @@ Repositório contém um estudo para captação de dados usando Open Weather Map 
 
 Antes de começar a desenvolver prepare o ambiente do Anaconda:
 
-Entre no terminal, navegue até a pasta onde está o gitclone e coloque os seguintes comandos:
+Entre no terminal, navegue até a pasta onde está o repositório clonado:
 
+Crie o seu ambiente:
 - **conda env create** -f environment.yaml
+
+Ative o ambiente:
 - **source activate**  climatempo_env
 
 ## Chrome Driver
