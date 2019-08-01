@@ -1,10 +1,14 @@
-# Repositório dedicado ao setor de Data Science da BALTARTEC
+# Clima - Transito
+
+Repositório contém um estudo para captação de dados usando Open Weather Map para dados climáticos e o Waze para dados referente ao trânsito.
+
+# Configuração
 
 Antes de começar a desenvolver prepare o ambiente do Anaconda:
 
 Entre no terminal, navegue até a pasta onde está o gitclone e coloque os seguintes comandos:
 
-- **conda env create** -f baltar_environment.yaml
+- **conda env create** -f environment.yaml
 - **source activate**  baltar ou **activate** baltar (no Windows)
 
 ## Chrome Driver

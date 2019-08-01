@@ -1,6 +1,6 @@
 # coding: utf-8
 
-# # BaltarTec - Testes e Exemplos
+# # Testes e Exemplos
 # 
 # Utilizaremos este notebook para testar e simular aplicações dos métodos desenvolvidos por nós. Descrever ao máximo as etapadas dos testes para que todos possam acompanhar o processo de criação.
 
@@ -20,7 +20,7 @@
 # In[1]:
 
 
-from baltar_met import data
+from Climatempo import data
 
 #Cria o objeto dt a partir da classe data
 dt = data(-8.055312, -34.897963)
