@@ -9,11 +9,11 @@ Antes de começar a desenvolver prepare o ambiente do Anaconda:
 Entre no terminal, navegue até a pasta onde está o gitclone e coloque os seguintes comandos:
 
 - **conda env create** -f environment.yaml
-- **source activate**  baltar ou **activate** baltar (no Windows)
+- **source activate**  climatempo_env
 
 ## Chrome Driver
 
-Para o wazeScrapping funcionar é necessario instalar o Driver do Chrome no seu ambiente conda. Faça o download no [link](https://sites.google.com/a/chromium.org/chromedriver/), descompacte-o na pasta anaconda(3)/envs/(baltar)/bin.
+Para o wazeScrapping funcionar é necessario instalar o Driver do Chrome no seu ambiente conda. Faça o download no [link](https://sites.google.com/a/chromium.org/chromedriver/), descompacte-o na pasta anaconda(3)/envs/(climatempo_env)/bin.
 
 ## exemp_lib.ipynb
 
