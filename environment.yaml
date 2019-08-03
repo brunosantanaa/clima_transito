@@ -1,4 +1,4 @@
-name: climatempo_env
+name: climatransito_env
 channels:
 - defaults
 dependencies:
@@ -116,5 +116,5 @@ dependencies:
   - selenium==3.7.0
   - webkit-server==1.0
   - xvfbwrapper==0.2.9
-prefix: /Users/Bruno/anaconda3/envs/baltar
+prefix: /Users/Bruno/anaconda3/envs/climatransito_env
 
