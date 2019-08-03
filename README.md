@@ -12,11 +12,11 @@ Crie o seu ambiente:
 - **conda env create** -f environment.yaml
 
 Ative o ambiente:
-- **source activate**  climatempo_env
+- **source activate**  climatransito_env
 
 ## Chrome Driver
 
-Para o wazeScrapping funcionar é necessario instalar o Driver do Chrome no seu ambiente conda. Faça o download no [link](https://sites.google.com/a/chromium.org/chromedriver/), descompacte-o na pasta anaconda(3)/envs/(climatempo_env)/bin.
+Para o wazeScrapping funcionar é necessario instalar o Driver do Chrome no seu ambiente conda. Faça o download no [link](https://sites.google.com/a/chromium.org/chromedriver/), descompacte-o na pasta anaconda(3)/envs/(climatransito_env)/bin.
 
 ## exemp_lib.ipynb
 
