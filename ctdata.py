@@ -32,12 +32,8 @@ class ClimaTransito:
             driver.get(url)
             severity = []
             for itens in range(1, 6):
-                #sev = "//*[@class='wm-jam-layer__bg' and @class='wm-jam-layer__bg--level-{0}' and @class='leaflet-interactive']".format(itens)
                 sev = ".wm-jam-layer__bg--level-{0}".format(itens)
-                #sev = "div.leaflet-overlay-pane g path.jam.severity-{0}.leaflet-clickable.jam.severity-{0}".format(itens)
                 severity.append(len(driver.find_elements_by_css_selector(sev)))
-                #severity.append(len(driver.find_elements_by_class_name(sev)))
-                #severity.append(len(driver.find_elements_by_xpath(sev)))
             return severity
         finally:
             driver.quit()
